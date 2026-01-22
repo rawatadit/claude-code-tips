@@ -2,6 +2,8 @@
 
 Add a rich status bar showing model, git status, and context usage.
 
+![Status Bar Example](https://img.shields.io/badge/Opus_4.5_|_📁_myproject_|_🔀_main_(synced)_|_18%25_of_200k-blue)
+
 ## Features
 
 - Current model name

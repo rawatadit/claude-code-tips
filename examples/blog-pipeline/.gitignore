@@ -1,0 +1,5 @@
+# Ignore runtime output (research notes, drafts, final posts)
+output/*
+
+# But keep the directory via .gitkeep
+!output/.gitkeep
